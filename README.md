@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ta Kler</h1>
-<h3 align="center">Junior CS Student @ Dakota State University • Full-Stack / Systems Dev • Creative Artist & Rock Climber 🧗‍♂️</h3>
+<h3 align="center">Junior CS Student @ Dakota State University • Full-Stack / Systems Dev </h3>
 
 <p align="center">
   <a href="mailto:ta.kler@outlook.com">📫 Email</a> •
