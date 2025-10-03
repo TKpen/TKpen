@@ -1,21 +1,21 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Ta Kler</h1>
-<h3 align="center">Frontend-leaning CS student @ Dakota State University • Creative dev & rock climber 🧗‍♂️</h3>
+<h3 align="center">Junior CS Student @ Dakota State University • Full-Stack / Systems Dev • Creative Artist & Rock Climber 🧗‍♂️</h3>
 
 <p align="center">
   <a href="mailto:ta.kler@outlook.com">📫 Email</a> •
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">🔗 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ta-kler-68568a236" target="_blank">🔗 LinkedIn</a> •
   <a href="https://YOUR_PORTFOLIO_URL" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CS major @ **DSU** (Class of 2027), Math minor
-- 🌱 Currently learning: **Advanced Data Structures**, **Software Dev Methodologies**, **OS & Parallel Computing**
-- 💡 Interests: **Frontend UI/UX**, **performance**, **algorithms**, **creative media**
-- ⚡ Fun: **Creative artist** & **rock climber**
-- 🤝 Open to: Internships, collabs on dev tools, edtech, or creative web apps
+- 🎓 Junior CS major @ **DSU** (Class of 2027), Math minor
+- 🌱 Currently learning: **Operating Systems**, **Parallel Computing**, **Advanced Data Structures**
+- 💡 Interests: **Backend & Full-Stack Dev**, **algorithms**, **system-level programming**
+- ⚡ Fun side: Creative artist 🎨 & rock climber 🧗‍♂️
+- 🤝 Open to: SWE internships, IT opportunities, collabs on dev tools, edtech, or creative web apps
 
 ---
 
@@ -27,13 +27,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" />
   
   <!-- Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="36" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="36" />
   
   <!-- Backend / DB -->
@@ -56,43 +54,37 @@
 ---
 
 ### 🧩 Notable Projects
-- **VTuber AI Companion (team)** — Blender model + Piper TTS + **Ollama** responses + **Docker Compose** microservices  
-  <sub>Chat-driven companion app; handled React UI & service wiring.</sub>
-- **Huffman File Compressor** — custom min-heap + binary tree; **compress/decompress** CLI in C++  
-  <sub>Focused on data structures, bit-level IO, and error handling.</sub>
-- **GENE_BANK** — binary file db of genetic samples; **TimSort**, indexing, view/edit/print ranges (C++)  
-  <sub>File ops, exceptions, custom indexing.</sub>
-- **Ray Optics Visualizer** — converging/diverging lens ray diagrams; two-lens system (Python)  
-  <sub>Math + visualization for physics coursework.</sub>
-- **OS / Parallel Labs** — pthreads, scheduling, paging sims  
-  <sub>Static/strided work-split, timing, synchronization basics.</sub>
+- **Data Structures Learner (Full-Stack)** — React + Node + SQL  
+  <sub>Menu + slide-based modules for learning core data structures; SQL backend stores progress data.</sub>  
+- **VTuber AI Companion (Team Project)** — Python, Docker, Blender, Ollama, Piper TTS  
+  <sub>Integrated LLM with text-to-speech; handled messaging/state flow and Docker Compose setup for reproducible dev.</sub>  
+- **Pokédex Web App** — React + JavaScript + API  
+  <sub>Interactive app with search & filter for 800+ Pokémon using REST API integration.</sub>  
+- **Huffman File Compressor** — C++ CLI tool  
+  <sub>Implemented min-heap + binary tree for compression/decompression; bit-level I/O and error handling.</sub>  
+- **GENE_BANK (Course Project)** — C++ binary file DB  
+  <sub>TimSort, indexing, and record management with file ops + exception handling.</sub>  
+- **Ray Optics Visualizer** — Python  
+  <sub>Converging/diverging lens ray diagrams; built for physics coursework.</sub>  
+- **OS / Parallel Computing Labs** — C / Pthreads / OpenMP  
+  <sub>Thread creation, scheduling, paging simulation; explored synchronization and static/strided work-split.</sub>  
 
-> *Links coming soon — most school repos are private/classroom. Ask and I can share code samples.*
+> 
 
 ---
 
 ### 🏅 Coursework Highlights
-- Data Structures & Algorithms (AVL, Binomial Heaps, Union-Find, Greedy/Dynamic)
+- Data Structures & Algorithms (AVL, Binomial Heaps, Huffman, Union-Find, Greedy/Dynamic Programming)
 - Operating Systems (CPU scheduling, demand paging, memory mgmt, pthreads)
-- Software Engineering (Agile, Git/GitHub Classroom, CI basics)
-- Web: Responsive CSS, JS fundamentals, React component patterns
+- Parallel Computing (work-splitting, synchronization, timing analysis)
+- Software Engineering (Agile, Git branching, CI basics)
+- Web Dev (responsive CSS, React components, Node/Express APIs)
 
 ---
 
 ### 📬 Contact
-- Email: **ta.kler@outlook.com**
-- LinkedIn: **https://www.linkedin.com/in/YOUR_LINKEDIN/**
-- Portfolio: **https://YOUR_PORTFOLIO_URL**
+- **Email:** ta.kler@outlook.com  
+- **LinkedIn:** [linkedin.com/in/ta-kler-68568a236](https://www.linkedin.com/in/ta-kler-68568a236)  
 
----
-
-### 📊 (Optional) GitHub Stats
-> Replace `YOUR_GITHUB_USERNAME` first. If you don’t want these, delete this section.
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
-
----
 
 <sub>Built with ☕ + curiosity. Always down to learn & build cool things.</sub>
