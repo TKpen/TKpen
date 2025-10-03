@@ -5,7 +5,6 @@
 <p align="center">
   <a href="mailto:ta.kler@outlook.com">📫 Email</a> •
   <a href="https://www.linkedin.com/in/ta-kler-68568a236" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
@@ -14,7 +13,7 @@
 - 🎓 Junior CS major @ **DSU** (Class of 2027), Math minor
 - 🌱 Currently learning: **Operating Systems**, **Parallel Computing**, **Advanced Data Structures**
 - 💡 Interests: **Backend & Full-Stack Dev**, **algorithms**, **system-level programming**
-- ⚡ Fun side: Creative artist 🎨 & rock climber 🧗‍♂️
+- ⚡ Fun side: Photography & rock climber 
 - 🤝 Open to: SWE internships, IT opportunities, collabs on dev tools, edtech, or creative web apps
 
 ---
@@ -87,4 +86,3 @@
 - **LinkedIn:** [linkedin.com/in/ta-kler-68568a236](https://www.linkedin.com/in/ta-kler-68568a236)  
 
 
-<sub>Built with ☕ + curiosity. Always down to learn & build cool things.</sub>
